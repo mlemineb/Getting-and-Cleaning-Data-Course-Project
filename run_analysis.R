@@ -157,3 +157,4 @@ main <- function()
   write.table(tidyData, paste0(folder,"/tidyData.txt"),row.name=FALSE)
   tidyData
   }
+main()
